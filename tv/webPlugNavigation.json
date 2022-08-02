@@ -277,16 +277,16 @@
             }
         },
 		{
-      "name": "大师兄影视(规则)",
+      "name": "555电影(规则)",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/02/ab32ab73-4475-4be1-ab6e-4b3ff641f7fb?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://www.555dy6.com/",
+      "webUrl": "https://www.o8tv.com",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
-        "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
+        "search_url": "https://www.o8tv.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+        "nav_url": "https://www.o8tv.com/vodplay/{playUrl}.html",
         "web_name": "大师兄影视",
 		"search":false,
         "navHtml": {
@@ -365,7 +365,7 @@
       }
     },
 	{
-      "name": "555电影(规则)",
+      "name": "大师兄影视(规则)",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/02/72ba3149-cf88-4756-ac34-f3d51844118c?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
